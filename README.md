@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @MarcosAlexandreCoelhoCampos
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning React and Next
 - 📫 How to reach me 
 - Email: marcooscampos@hotmail.com
 - Whatsapp: (48) 98451-5046
 - Linkedin: https://www.linkedin.com/in/marcos-alexandre-coelho-campos-pcd/
-- Site: https://marcos-coelho.vercel.app/
